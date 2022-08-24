@@ -1,6 +1,6 @@
 {
   "name": "node-event-trigger",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A event sourcing and dispatching package for node",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

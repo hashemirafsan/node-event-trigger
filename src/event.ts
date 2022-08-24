@@ -30,7 +30,7 @@ export class DispatchableEvent implements IDispatcherEvent {
 
   /**
    * "This function adds a listener to the list of listeners."
-   * 
+   *
    * The first line of the function is the function declaration. It's a function named setListener that
    * takes a parameter named listener. The parameter is of type IDispatcherListener. The function
    * returns a DispatchableEvent

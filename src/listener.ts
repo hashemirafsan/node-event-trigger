@@ -5,9 +5,9 @@ function so that it can be used as a listener */
 export class DispatchableListener implements IDispatcherListener {
   private _isOnce: boolean = false;
   private _expect: boolean = false;
-  private _listenerCallback: (args: object) => {};
+  private _listenerCallback: (args: object) => void;
 
-  constructor(listenerCallback: (args: object) => {}) {
+  constructor(listenerCallback: (args: object) => void) {
     this._listenerCallback = listenerCallback;
   }
 

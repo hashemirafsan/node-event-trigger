@@ -8,6 +8,5 @@
 > npm install node-event-trigger
 
 ## Example
----
-##### it's the following approach for TypeScript
+##### In TypeScript using `import`, On the following approach 
 > import {  node-event-trigger } from ' node-event-trigger';

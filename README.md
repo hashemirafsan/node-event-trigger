@@ -1,8 +1,8 @@
-# node-event-trigger
+## node-event-trigger
 
-# Features
+## Features
 
-# Installing
+## Installing
 
-### Using npm:
+#### Using npm:
 > npm install node-event-trigger

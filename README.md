@@ -1,6 +1,7 @@
 ## node-event-trigger
 
 ## Features
+#### On the following the feature part
 
 ## Installing
 
@@ -10,3 +11,4 @@
 ## Example
 ##### In TypeScript using `import`, On the following approach 
 > import {  node-event-trigger } from ' node-event-trigger';
+
